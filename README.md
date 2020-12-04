@@ -312,7 +312,7 @@ plt.show()
 
 
     
-![png](readme_files/wine_id3_16_1.png)
+![png](readme_files/wine_id3_16_1.png?raw=true)
     
 
 
